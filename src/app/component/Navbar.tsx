@@ -53,7 +53,7 @@ export default function Navbar() {
           <ChevronDown size={17} />
         </button>
       </div>
-      <div className="absolute top-0 right-1/3 bg-yellow-400 w-[600px] h-[40px] blur-[129px]">
+      <div className="absolute top-0 right-1/3 bg-yellow-400 w-[600px] h-[40px] blur-[129px] z-0">
       </div>
     </nav>
   );

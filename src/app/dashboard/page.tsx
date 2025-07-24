@@ -5,7 +5,7 @@ import VideoSection from '../component/VideoSection'
 const DashboardPage = () => {
   return (
     <>
-      <section className='w-full p-8 '>
+      <section className='w-full p-8  '>
               <VideoSection/>
       </section>
      
