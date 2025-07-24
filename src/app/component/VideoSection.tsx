@@ -44,7 +44,7 @@ export default function VideoSection() {
               </div>
             </div>
           </div>
-          <div className="incidents-list mt-4 flex flex-col gap-3">
+          <div className="incidents-list mt-4 flex flex-col gap-4">
             <div className=" flex justify-between ">
               <div className="flex gap-2 items-center">
                 <div className="thumbnail bg-amber-100 w-[135px] h-[78px] rounded-md">
